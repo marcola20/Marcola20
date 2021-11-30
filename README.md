@@ -1,6 +1,6 @@
 ## Eu sou o Marcos Vinicius, estudante de Engenharia de Software!
 
-- 🍀 Estudando Node.js
+- 🍀 No momento estou estudando Node.js
 - 🟢 Contate-me pelo e-mail: sbmarcos777@gmail.com
 
 <div align="center">
