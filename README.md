@@ -2,6 +2,7 @@
 
 - 🍀 No momento estou estudando Node.js
 - 🟢 Contate-me pelo e-mail: sbmarcos777@gmail.com
+- 📗 Cursando Engenharia de Software na PUCPR
 
 <div align="center">
   <a href="https://github.com/Marcola20">
