@@ -1,6 +1,6 @@
 ## Eu sou Marcos Vinicius, estudante de Engenharia de Software!
 
-- 🟪 No momento estou estudando C#
+- 🟪 No momento estou trabalhando com C#
 - 🟣 Contate-me pelo e-mail: sbmarcos777@gmail.com
 - 📓 Cursando Engenharia de Software na PUCPR
 
