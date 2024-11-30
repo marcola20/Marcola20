@@ -2,7 +2,7 @@
 
 - 🟪 Trabalhando com C# e Angular
 - 🟣 Contate-me pelo e-mail: sbmarcos777@gmail.com
-- 📓 Formado em Engenharia de Software na PUCPR
+- 📓 Formado em Bacharelado em Engenharia de Software pela Pontifícia Universidade Católica do Paraná (PUCPR).
 
 <div align="center">
   <a href="https://github.com/Marcola20">
