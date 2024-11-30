@@ -1,8 +1,8 @@
 ## Oi meu nome é Marcos Vinicius e sou Engenheiro de Software!
 
-- 🟪 Trabalhando com C#, Next.js e Svelte
+- 🟪 Trabalhando com C# e Angular
 - 🟣 Contate-me pelo e-mail: sbmarcos777@gmail.com
-- 📓 Cursando Engenharia de Software na PUCPR
+- 📓 Formado em Engenharia de Software na PUCPR
 
 <div align="center">
   <a href="https://github.com/Marcola20">
@@ -10,7 +10,7 @@
   
 <div align ="center" style="display: inline_block"><br>
   <img align="center" alt="Marcos-c" height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Marcos-Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Marcos-Angular" height="30" src="https://img.shields.io/badge/Angular-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Marcos-Node" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Marcos-Py" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Marcos-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
