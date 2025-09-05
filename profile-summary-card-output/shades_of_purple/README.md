@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/marcola20/Marcola20/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
+```
+
+    
