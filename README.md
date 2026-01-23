@@ -1,7 +1,7 @@
 ## Oi meu nome é Marcos Vinicius e sou Engenheiro de Software!
 
 - 🟪 Trabalhando com C#, Windows Forms e SQL Server
-- 🟪 Desenvolvendo projetos com Blazor e .NET
+- 🟪 Desenvolvendo projetos com Blazor, Next e .NET
 - 🟣 Contate-me pelo e-mail: sbmarcos777@gmail.com
 - 📓 Formado em Bacharelado em Engenharia de Software pela Pontifícia Universidade Católica do Paraná (PUCPR).
 
