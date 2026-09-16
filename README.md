@@ -16,7 +16,7 @@
 
 - 🟪 Engenheiro de Software focado no ecossistema **.NET**
 - 🧩 Desenvolvendo aplicações com **Blazor**, **Next.js** e **SQL Server**
-- 🤖 Integrando **IA** em aplicações com **OpenAI** e **Gemini**
+- 🤖 Integrando **IA** em aplicações com **Anthropic**, **OpenAI** e **Gemini**
 - 🎓 Bacharel em **Engenharia de Software** pela **PUCPR**
 - 🌐 Portfólio: **[marcola20.github.io/portfolio](https://marcola20.github.io/portfolio/)**
 - 📫 Fale comigo: **sbmarcos777@gmail.com**
