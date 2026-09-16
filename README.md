@@ -5,8 +5,8 @@
 
 <!-- Texto digitando -->
 <p align="center">
-  <a href="https://github.com/Marcola20">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+C%23+%7C+.NET;Blazor+%2B+Next.js+no+dia+a+dia;Explorando+Python+e+Intelig%C3%AAncia+Artificial;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95" alt="Typing SVG" />
+  <a href="https://marcola20.github.io/portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+C%23+%7C+.NET;Blazor+%2B+Next.js+no+dia+a+dia;Integrando+IA+em+aplica%C3%A7%C3%B5es+reais" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,8 +16,9 @@
 
 - 🟪 Engenheiro de Software focado no ecossistema **.NET**
 - 🧩 Desenvolvendo aplicações com **Blazor**, **Next.js** e **SQL Server**
-- 🤖 Explorando **Python** e **IA aplicada** — integrando LLMs a aplicações reais
+- 🤖 Integrando **IA** em aplicações com **OpenAI** e **Gemini**
 - 🎓 Bacharel em **Engenharia de Software** pela **PUCPR**
+- 🌐 Portfólio: **[marcola20.github.io/portfolio](https://marcola20.github.io/portfolio/)**
 - 📫 Fale comigo: **sbmarcos777@gmail.com**
 
 ---
@@ -30,6 +31,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
 <h4 align="center">Front-end</h4>
@@ -40,13 +42,11 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-<h4 align="center">IA & Dados</h4>
+<h4 align="center">Inteligência Artificial</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
 <h4 align="center">Ferramentas</h4>
@@ -58,29 +58,13 @@
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marcola20&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcola20&layout=compact&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Marcola20&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🤝 Vamos nos conectar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcosv20/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://marcola20.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-A855F7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/marcosviniciussa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sbmarcos777@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.instagram.com/20marcola/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Marcola20&color=A855F7&style=for-the-badge&label=VISITAS" alt="Visitas ao perfil" />
 </p>
 
 <!-- Rodapé -->
